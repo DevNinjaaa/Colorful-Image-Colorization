@@ -1,0 +1,1 @@
+I used Tiny-ImageNet for training, whereas the paper used the full ImageNet dataset.
