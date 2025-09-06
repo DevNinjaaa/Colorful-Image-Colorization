@@ -17,5 +17,6 @@ Due to resource limits, the model is trained on **Tiny ImageNet** instead of the
 Here are some example results compared with the original paper:
 
 <img width="713" height="227" alt="image" src="https://github.com/user-attachments/assets/edb58b6c-0da3-4f34-adfc-915d5da1293f" />
-<img width="860" height="323" alt="image" src="https://github.com/user-attachments/assets/382ac71a-55da-42ff-a5ba-b4fe7a3ee98a" />
+<img width="713" height="227" alt="image" src="https://github.com/user-attachments/assets/382ac71a-55da-42ff-a5ba-b4fe7a3ee98a" />
+
 
